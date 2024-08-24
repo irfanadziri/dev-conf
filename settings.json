@@ -1,0 +1,45 @@
+{
+  "yaml.schemas": {
+    "file:///c%3A/Users/Irfanadziri/.vscode/extensions/atlassian.atlascode-3.0.10/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+  },
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "editor.fontFamily": "Ubuntu Mono",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "editor.lineHeight": 1.8,
+  "editor.roundedSelection": false,
+  "editor.tabCompletion": "on",
+  "editor.cursorBlinking": "phase",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorStyle": "underline",
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "workbench.tree.enableStickyScroll": false,
+  "editor.fontSize": 14,
+  "atlascode.jira.enabled": false,
+  "editor.stickyScroll.scrollWithEditor": false,
+  "editor.stickyScroll.enabled": false,
+  "terminal.integrated.env.windows": {
+    "PATH": "C:\\Program Files\\Python312\\Scripts\\;C:\\Program Files\\Python312\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files\\NVIDIA Corporation\\NVIDIA NvDLISR;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\Git\\cmd;C:\\Users\\Irfanadziri\\AppData\\Roaming\\nvm;C:\\Program Files\\nodejs;C:\\Users\\Irfanadziri\\AppData\\Roaming\\nvm\\v20.15.1\\yarn;C:\\Users\\Irfanadziri\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Irfanadziri\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\Irfanadziri\\.bun\\bin;${env:PATH}"
+  },
+  "terminal.integrated.fontFamily": "monospace",
+  "yaml.customTags": [
+    "!Equals sequence",
+    "!FindInMap sequence",
+    "!GetAtt",
+    "!GetAZs",
+    "!ImportValue",
+    "!Join sequence",
+    "!Ref",
+    "!Select sequence",
+    "!Split sequence",
+    "!Sub"
+  ],
+  "files.autoSave": "onWindowChange",
+  "workbench.startupEditor": "none",
+  "git.confirmSync": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.accessibilitySupport": "off"
+}
